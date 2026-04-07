@@ -4,10 +4,9 @@ This project is a Power BI dashboard built to track and analyze Turnaround Time 
 ## 📸 Dashboard Preview
 
 ### ✅ Completed Cases Analysis
-![Completed](images/completed-dashboard.png)
-
+![Completed]
 ### ⏳ Pending Cases Tracking
-![Pending](images/pending-dashboard.png)
+![Pending]
 
 ## 🎯 Project Objective
 
